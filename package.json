@@ -1,11 +1,10 @@
 {
   "name": "jquery.prettyphoto",
   "version": "3.1.6",
-  "description": "prettyPhoto is a jQuery based lightbox clone. Not only does it support images,
-it also add support for videos, flash, YouTube, iFrame. It's a full blown
-media modal box.",
+  "description": "prettyPhoto is a jQuery based lightbox clone. Not only does it support images, it also add support for videos, flash, YouTube, iFrame. It's a full blown media modal box.",
   "author": "Copyright, Stephane Caron",
   "homepage": "http://www.no-margin-for-errors.com",
   "license": "MIT",
+  "repository": "illusionfield/prettyphoto"
 }
 
